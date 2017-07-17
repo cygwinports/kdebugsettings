@@ -1,0 +1,7 @@
+inherit kf5
+
+NAME="kdebugsettings"
+VERSION=17.04.3
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="Configure debug settings in Qt/KDE applications"
